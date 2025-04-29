@@ -9,6 +9,7 @@
 
 ## 📜 conf.ini 说明
 
+```ini
 # 程序的列表 program{n} = 程序路径
 
 program = D:\app.exe
@@ -24,4 +25,5 @@ auto_login = true
 # 是否先关闭所有程序 true 或者 false
 
 close_first = true
+```
 
